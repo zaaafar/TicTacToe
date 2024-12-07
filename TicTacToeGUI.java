@@ -63,7 +63,7 @@ public class TicTacToeGUI {
         });
         modeFrame.add(twoPlayerButton);
 
-        JLabel creditsLabel = new JLabel("Developed by Zafar, Amir, and Huzaifa", SwingConstants.CENTER);
+        JLabel creditsLabel = new JLabel("Developed by Zafar's Production", SwingConstants.CENTER);
         creditsLabel.setFont(new Font("Segoe UI", Font.PLAIN, 16));
         creditsLabel.setForeground(new Color(200, 200, 200));
         modeFrame.add(creditsLabel);
